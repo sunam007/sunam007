@@ -1,4 +1,4 @@
-✋ ## Hello There !  I'm  <strong>Asaduzzaman Sunam <strong/>
+## 👋 Hello There !  I'm  <strong>Asaduzzaman Sunam <strong/>
 <p>
 I am a Junior Full Stack Developer in the JavaScript eco system who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
 <p/>
