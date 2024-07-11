@@ -8,7 +8,6 @@ I have an immense interest in Web Development and Web technologies. I love colla
 <p/>
 
 🌐 Portfolio: [asaduzzaman-sunam.netlify.app](https://asaduzzaman-sunam.netlify.app/) <br/>
-🔗 LinkedIn: [linkedin.com/in/asaduzzaman-sunam](https://www.linkedin.com/in/asaduzzaman-sunam/) <br/>
 📭 Reach Out: asaduzzaman.sunam@gmail.com <br/>
 🚀 Resume: [asaduzzaman_sunam_cv](https://drive.google.com/file/d/1KGYactzl3EfUs7NavuLJ9yiWW_HEckMd/view)
 <br/>
