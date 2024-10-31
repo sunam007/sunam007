@@ -1,6 +1,6 @@
 ## 👋 Hello There !  I'm  <strong>Asaduzzaman Sunam <strong/>
 <p>
-I am a Junior Full Stack Developer in the JavaScript eco system who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
+I am a Full Stack Developer in the JavaScript eco system who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
 <p/>
 
 <p>
@@ -9,7 +9,7 @@ I have an immense interest in Web Development and Web technologies. I love colla
 
 🌐 Portfolio: [asaduzzaman-sunam.netlify.app](https://asaduzzaman-sunam.netlify.app/) <br/>
 📭 Reach Out: asaduzzaman.sunam@gmail.com <br/>
-🚀 Resume: [asaduzzaman_sunam_cv](https://drive.google.com/file/d/1KGYactzl3EfUs7NavuLJ9yiWW_HEckMd/view)
+🚀 Resume: [asaduzzaman_sunam_cv]([https://drive.google.com/file/d/1KGYactzl3EfUs7NavuLJ9yiWW_HEckMd/view](https://drive.google.com/file/d/1Hmxqs_EYGzDg1IdHuoLNjpMkHmrdiobJ/view?usp=drive_link))
 <br/>
 
 ## Tools And Technologies
