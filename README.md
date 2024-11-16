@@ -1,13 +1,14 @@
-## 👋 Hello There !  I'm  <strong>Asaduzzaman Sunam <strong/>
+## 👋 Hello ! Nice to see you. I'm  <strong>Asaduzzaman Sunam <strong/>
 <p>
-I am a Full Stack Developer in the JavaScript eco system who strives to build highly functional, immersive and beautiful web applications through carefully crafted code and user-centric design. I love spending time on fixing little details and creating optimized solutions.
+I'm a passionate Full Stack web developer with experience developing Full-Stack web apps with React, Node js, and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. Currently I'm learning Python and Solidity.
 <p/>
 
 <p>
-I have an immense interest in Web Development and Web technologies. I love collaborating with new people, having quality talk, and making moments worthy and lively.
+ I am also very interested in AI based projects. Working on integrating LLM's in codebase as a hobby project. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.
 <p/>
 
 🌐 Portfolio: [asaduzzaman-sunam.netlify.app](https://asaduzzaman-sunam.netlify.app/) <br/>
+🔗 LinkedIn: [dev_asaduzzaman](https://www.linkedin.com/in/dev-asaduzzaman) <br/>
 📭 Reach Out: asaduzzaman.sunam@gmail.com <br/>
 🚀 Resume: [asaduzzaman_sunam_cv](https://drive.google.com/file/d/1Hmxqs_EYGzDg1IdHuoLNjpMkHmrdiobJ/view?usp=drive_link)
 <br/>
